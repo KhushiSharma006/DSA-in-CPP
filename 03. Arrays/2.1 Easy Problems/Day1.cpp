@@ -1,6 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+01.Largest Element in an Array
+02.Second Largest Element in an Array without sorting
+03.Check if the array is sorted	
+04.Remove duplicates from Sorted array
+*/
+
+
+
  /// Largest element of the array
 int largestElement(vector<int> &arr, int n){
     int max = arr[0];
