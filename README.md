@@ -90,17 +90,23 @@ Although this is a personal learning repository,
 > _“Consistency beats intensity.”_  
 > One problem a day, one step closer to mastery.
 
-<p align="center">
-  <b>Happy Coding! 🚀</b>
-</p>
 ---
 
 <p align="center">
-  Made with ❤️ and <b>C++</b>  
-  <br>
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=F75C7E&center=true&vCenter=true&width=500&lines=Made+with+❤️+and+C%2B%2B;Learning+Every+Day;One+Commit+at+a+Time" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ and C++</b><br>
   <i>Learning. Practicing. Growing.</i>
 </p>
+
+<p align="center">
+  <b>Happy Coding! 🚀</b>
+</p>
+
+
+
 
 
 
