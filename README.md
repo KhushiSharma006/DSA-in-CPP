@@ -97,7 +97,6 @@ Although this is a personal learning repository,
 </p>
 
 <p align="center">
-  <b>Made with ❤️ and C++</b><br>
   <i>Learning. Practicing. Growing.</i>
 </p>
 
