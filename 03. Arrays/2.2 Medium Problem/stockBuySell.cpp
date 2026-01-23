@@ -28,7 +28,7 @@ using namespace std;
     */
 
 
-// optimal force: O(n)    
+// optimal approach: O(n)    
 int stockBuySell(vector<int> &arr){
     int mini = arr[0];
     int maxProfit =0;
